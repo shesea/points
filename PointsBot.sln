@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PointsBot", "PointsBot.vcxproj", "{4EDDA96A-68C6-4A87-BE56-24EF884CFF40}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "PointsBotSetup", "..\PointsBotSetup\PointsBotSetup.vdproj", "{D143DCDB-045E-4180-9B7F-764603B79BE1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EDDA96A-68C6-4A87-BE56-24EF884CFF40}.Debug|x64.ActiveCfg = Debug|x64
+		{4EDDA96A-68C6-4A87-BE56-24EF884CFF40}.Debug|x64.Build.0 = Debug|x64
+		{4EDDA96A-68C6-4A87-BE56-24EF884CFF40}.Debug|x86.ActiveCfg = Debug|Win32
+		{4EDDA96A-68C6-4A87-BE56-24EF884CFF40}.Debug|x86.Build.0 = Debug|Win32
+		{4EDDA96A-68C6-4A87-BE56-24EF884CFF40}.Release|x64.ActiveCfg = Release|x64
+		{4EDDA96A-68C6-4A87-BE56-24EF884CFF40}.Release|x64.Build.0 = Release|x64
+		{4EDDA96A-68C6-4A87-BE56-24EF884CFF40}.Release|x86.ActiveCfg = Release|Win32
+		{4EDDA96A-68C6-4A87-BE56-24EF884CFF40}.Release|x86.Build.0 = Release|Win32
+		{D143DCDB-045E-4180-9B7F-764603B79BE1}.Debug|x64.ActiveCfg = Debug
+		{D143DCDB-045E-4180-9B7F-764603B79BE1}.Debug|x86.ActiveCfg = Debug
+		{D143DCDB-045E-4180-9B7F-764603B79BE1}.Release|x64.ActiveCfg = Release
+		{D143DCDB-045E-4180-9B7F-764603B79BE1}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC9D9500-F52A-4F73-856F-9BDCD0C66C47}
+	EndGlobalSection
+EndGlobal
